@@ -1,0 +1,19 @@
+package testCasePackage;
+
+import org.testng.annotations.Test;
+
+import driverPackage.BaseDriver;
+
+
+public class Tc0001_login extends BaseDriver{
+
+	String baseUrl = "https://fs1.formsite.com/form_app/FormSite?FormId=LoadLogin&Auto";
+	
+	@Test
+	
+	public void login()
+	{
+		driver.
+	}
+	
+}
