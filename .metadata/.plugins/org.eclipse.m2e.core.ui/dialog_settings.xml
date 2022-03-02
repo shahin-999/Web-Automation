@@ -25,12 +25,24 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="it.training.bd.bdShop"/>
+			<item value="it.training.bd.Fill_form"/>
+			<item value="it.training.bd.form"/>
+			<item value="it.training.bd.google_form"/>
+			<item value="it.training.bd.googleForms"/>
+			<item value="it.training.bd.googleForm"/>
 			<item value="it.training.bd.stProject"/>
 		</list>
 		<list key="groupId">
 			<item value="it.training.bd"/>
 		</list>
 		<list key="artifactId">
+			<item value="bdShop"/>
+			<item value="Fill-form"/>
+			<item value="form"/>
+			<item value="google-form"/>
+			<item value="googleForms"/>
+			<item value="googleForm"/>
 			<item value="1stProject"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -67,5 +79,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="F:\SQA\Web Automation\FormSite"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

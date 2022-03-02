@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-03T01:17:21 BDT" name="Default suite" finished-at="2022-03-03T01:17:33 BDT" duration-ms="12054">
+    <groups>
+    </groups>
+    <test started-at="2022-03-03T01:17:21 BDT" name="Default test" finished-at="2022-03-03T01:17:33 BDT" duration-ms="12054">
+      <class name="testCasePackage.TC_0001_submitForm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCasePackage.TC_0001_submitForm@52b1beb6]" started-at="2022-03-03T01:17:18 BDT" name="setup" finished-at="2022-03-03T01:17:21 BDT" duration-ms="2820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fillForm()[pri:0, instance:testCasePackage.TC_0001_submitForm@52b1beb6]" started-at="2022-03-03T01:17:21 BDT" name="fillForm" finished-at="2022-03-03T01:17:33 BDT" duration-ms="11997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCasePackage.TC_0001_submitForm@52b1beb6]" started-at="2022-03-03T01:17:33 BDT" name="tearDown" finished-at="2022-03-03T01:17:33 BDT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCasePackage.TC_0001_submitForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
