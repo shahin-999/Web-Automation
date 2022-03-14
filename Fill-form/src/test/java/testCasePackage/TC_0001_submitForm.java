@@ -15,9 +15,9 @@ public class TC_0001_submitForm extends BaseDriver{
 		driver.get(baseUrl);
 		driver.manage().window().maximize();
 		Thread.sleep(1000);
-		String name = "Rabby";
-		String email = "abc@gmail.com";
-		String phone = "123456";
+		String name = "Sakib";
+		String email = "abc2@gmail.com";
+		String phone = "12343456";
 		String coverLetter = "Hello Hello Hello";
 		
 		String nameXpath = "//*[@id=\"mG61Hd\"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input"; 
@@ -36,7 +36,7 @@ public class TC_0001_submitForm extends BaseDriver{
 		Thread.sleep(500);
 		
 		driver.findElement(By.xpath(coverLetterXpath)).sendKeys(coverLetter);
-		Thread.sleep(500);
+		Thread.sleep(500);		
 		
 		driver.findElement(By.xpath(btnXpath)).click();
 		Thread.sleep(5000);

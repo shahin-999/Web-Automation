@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="F:\SQA\Web Automation"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,6 +26,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="it.training.bd.RahulShettyAcademy"/>
 			<item value="it.training.bd.bdShop"/>
 			<item value="it.training.bd.Fill_form"/>
 			<item value="it.training.bd.form"/>
@@ -37,6 +39,7 @@
 			<item value="it.training.bd"/>
 		</list>
 		<list key="artifactId">
+			<item value="RahulShettyAcademy"/>
 			<item value="bdShop"/>
 			<item value="Fill-form"/>
 			<item value="form"/>
