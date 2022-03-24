@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-24T12:15:04 BDT" name="Default suite" finished-at="2022-03-24T12:15:24 BDT" duration-ms="19099">
+    <groups>
+    </groups>
+    <test started-at="2022-03-24T12:15:04 BDT" name="Default test" finished-at="2022-03-24T12:15:24 BDT" duration-ms="19099">
+      <class name="testCasePackage.TC003_chekboxAndradioButton">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCasePackage.TC003_chekboxAndradioButton@6bc407fd]" started-at="2022-03-24T12:15:01 BDT" name="setup" finished-at="2022-03-24T12:15:04 BDT" duration-ms="2954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckBoxAndRadioButtonInFrame()[pri:0, instance:testCasePackage.TC003_chekboxAndradioButton@6bc407fd]" started-at="2022-03-24T12:15:04 BDT" name="CheckBoxAndRadioButtonInFrame" finished-at="2022-03-24T12:15:23 BDT" duration-ms="18949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBoxAndRadioButtonInFrame -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCasePackage.TC003_chekboxAndradioButton@6bc407fd]" started-at="2022-03-24T12:15:24 BDT" name="tearDown" finished-at="2022-03-24T12:15:24 BDT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCasePackage.TC003_chekboxAndradioButton -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

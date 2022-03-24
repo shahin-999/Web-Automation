@@ -26,6 +26,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="it.training.bd.practice"/>
 			<item value="it.training.bd.RahulShettyAcademy"/>
 			<item value="it.training.bd.bdShop"/>
 			<item value="it.training.bd.Fill_form"/>
@@ -39,6 +40,7 @@
 			<item value="it.training.bd"/>
 		</list>
 		<list key="artifactId">
+			<item value="practice"/>
 			<item value="RahulShettyAcademy"/>
 			<item value="bdShop"/>
 			<item value="Fill-form"/>
@@ -85,6 +87,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="F:\SQA\WebAutomation\batch8_web"/>
 			<item value="F:\SQA\Web Automation\FormSite"/>
 		</list>
 		<list key="projectNameTemplate">
