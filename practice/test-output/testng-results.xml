@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-24T12:49:51 BDT" name="Default suite" finished-at="2022-03-24T12:49:56 BDT" duration-ms="5036">
+  <suite started-at="2022-03-25T01:02:58 BDT" name="Default suite" finished-at="2022-03-25T01:03:06 BDT" duration-ms="8681">
     <groups>
     </groups>
-    <test started-at="2022-03-24T12:49:51 BDT" name="Default test" finished-at="2022-03-24T12:49:56 BDT" duration-ms="5036">
-      <class name="testcasePackage.TC002_CheckboxAndRedioButton">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcasePackage.TC002_CheckboxAndRedioButton@6f44a157]" started-at="2022-03-24T12:49:48 BDT" name="setup" finished-at="2022-03-24T12:49:51 BDT" duration-ms="2780" status="PASS">
+    <test started-at="2022-03-25T01:02:58 BDT" name="Default test" finished-at="2022-03-25T01:03:06 BDT" duration-ms="8681">
+      <class name="testcasePackage.TC004_DoubleClickForSelect">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcasePackage.TC004_DoubleClickForSelect@6bc407fd]" started-at="2022-03-25T01:02:54 BDT" name="setup" finished-at="2022-03-25T01:02:58 BDT" duration-ms="3265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="clickOPtions()[pri:0, instance:testcasePackage.TC002_CheckboxAndRedioButton@6f44a157]" started-at="2022-03-24T12:49:51 BDT" name="clickOPtions" finished-at="2022-03-24T12:49:56 BDT" duration-ms="4916" status="PASS">
+        <test-method signature="selectText()[pri:0, instance:testcasePackage.TC004_DoubleClickForSelect@6bc407fd]" started-at="2022-03-25T01:02:58 BDT" name="selectText" finished-at="2022-03-25T01:03:06 BDT" duration-ms="8516" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- clickOPtions -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcasePackage.TC002_CheckboxAndRedioButton@6f44a157]" started-at="2022-03-24T12:49:56 BDT" name="tearDown" finished-at="2022-03-24T12:49:57 BDT" duration-ms="375" status="PASS">
+        </test-method> <!-- selectText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcasePackage.TC004_DoubleClickForSelect@6bc407fd]" started-at="2022-03-25T01:03:06 BDT" name="tearDown" finished-at="2022-03-25T01:03:07 BDT" duration-ms="322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testcasePackage.TC002_CheckboxAndRedioButton -->
+      </class> <!-- testcasePackage.TC004_DoubleClickForSelect -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
